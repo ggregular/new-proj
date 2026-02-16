@@ -35,7 +35,10 @@ namespace EightPuzzleBFS
 
             // Початковий стан
             int[,] start = { { 3, 4, 0 }, { 1, 2, 6 }, { 7, 5, 8 } };
-
+            if (start.GetLength(0) != 3 || start.GetLength(1) != 3)
+            {
+                throw new ArgumentException("Size should be = 9", nameof(start));
+            }
             Console.WriteLine("╔═══════════════════════════════════════════════╗");
             Console.WriteLine("║         8-PUZZLE BFS SOLVER                   ║");
             Console.WriteLine("╚═══════════════════════════════════════════════╝");
