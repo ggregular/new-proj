@@ -202,4 +202,9 @@ namespace EightPuzzleBFS
             Console.WriteLine("└───────┘");
         }
     }
-}
+}/ /  
+ <i =0 
+ 7 
+ 3i ;:8 
+ c o n f l i c t - a  
+ 
