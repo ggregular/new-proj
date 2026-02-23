@@ -1,4 +1,4 @@
-﻿using System;
+﻿// Версія Y - гілка conflict-y
 using System.Collections.Generic;
 using System.Linq;
 
@@ -202,14 +202,24 @@ namespace EightPuzzleBFS
             Console.WriteLine("└───────┘");
         }
     }
-}/ /  
- <i =0 
- 7 
- 3i ;:8 
- c o n f l i c t - a  
- / /  
- <i =0 
- 7 
- 3i ;:8 
- c o n f l i c t - b  
- 
+}/ / 
+ 
+ <i =0
+ 
+ 7
+ 
+ 3i ;:8
+ 
+ c o n f l i c t - a 
+ 
+ / / 
+ 
+ <i =0
+ 
+ 7
+ 
+ 3i ;:8
+ 
+ c o n f l i c t - b 
+ 
+ 
