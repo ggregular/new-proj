@@ -207,4 +207,9 @@ namespace EightPuzzleBFS
  7 
  3i ;:8 
  c o n f l i c t - a  
+ / /  
+ <i =0 
+ 7 
+ 3i ;:8 
+ c o n f l i c t - b  
  
